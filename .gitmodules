@@ -10,3 +10,6 @@
 [submodule "puppet/modules/mysql"]
 	path = puppet/modules/mysql
 	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "public"]
+	path = public
+	url = https://github.com/WordPress/WordPress.git
